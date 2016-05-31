@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hi Humans!
+
+RenanBicalho here!
+I'm from Brazil!
